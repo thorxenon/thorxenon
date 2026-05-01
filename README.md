@@ -81,7 +81,7 @@
 
 - 💼 LinkedIn: https://www.linkedin.com/in/pedro-lucas-rangel-99084819a/  
 - 📧 Email: pedrolucasrangel1@hotmail.com  
-- 🌐 Portfolio: coming soon ...  
+- 🌐 Portfolio: https://devpedro.com  
 
 ---
 
