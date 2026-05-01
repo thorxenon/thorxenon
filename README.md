@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Pedro Lucas
 
-🚀 Full Stack Developer | Backend Specialist (Node.js & Java)  
+🚀 Full Stack Software Engineer | Backend (Node.js & Java)  
 💡 Passionate about scalable systems, microservices, and clean architecture  
 🌍 Building real-world applications with performance and security in mind  
 
