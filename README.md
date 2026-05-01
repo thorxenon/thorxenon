@@ -18,11 +18,11 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thorxenon&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=thorxenon&theme=tokyonight&show_icons=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thorxenon&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=thorxenon&layout=compact&theme=tokyonight)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=thorxenon&theme=tokyonight)
+![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=thorxenon&theme=tokyonight)
 
 ---
 
