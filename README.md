@@ -79,9 +79,9 @@
 
 ## 🤝 Let's Connect
 
-- 💼 LinkedIn: https://linkedin.com/in/SEU_USERNAME  
+- 💼 LinkedIn: https://www.linkedin.com/in/pedro-lucas-rangel-99084819a/  
 - 📧 Email: pedrolucasrangel1@hotmail.com  
-- 🌐 Portfolio: https://devpedro.com  
+- 🌐 Portfolio: coming soon ...  
 
 ---
 
